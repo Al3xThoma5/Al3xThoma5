@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Alex Thomas</h1>
+<h3 align="center">A zoology student at Swansea University </h3>
 - 🔭 I'm currently studying Zoology at Swansea University. 
 - 🌱 I’m currently studying Population Ecology, which involves data manipulation and analysis using R.  
 - 📖 I am currently learning Python and advancing my knowledge of R. 
